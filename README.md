@@ -32,7 +32,7 @@ Embarked
 Python: Programming language Streamlit: Framework for building the web app Scikit-learn: Machine learning library Pandas: Data manipulation library NumPy: Numerical computing library Matplotlib/Seaborn: Data visualization libraries
 
 # Usage
-Open your web browser and navigate to https://ml-project-11-medical-insurance-cost-prediction-webapp-aivst8a.streamlit.app/
+Open your web browser and navigate to https://ml-project-15-titanic-survival-prediction-webapp-2yjtmkqvtilk8.streamlit.app/
 
 Input the details like Passenger class, Gender, Age of the person, No of Siblings, Parch, Fare and Embarked.
 
@@ -60,10 +60,10 @@ Model evaluation using metrics such as accuracy
 The web application is built using Streamlit, which allows for easy deployment and user interaction. Users can input passenger details such as age, gender, passenger class, etc., and get predictions on their survival.
 
 # Results
-The final model provides predictions for gold prices with a certain accuracy. The results are visualized using plots and graphs to show the actual vs. predicted prices.
+The final model provides predictions for survived or not with a certain accuracy. The results are visualized using plots and graphs to show the actual vs. predicted prices.
 
 # Contributing
 Contributions are welcome! If you have any improvements or suggestions, feel free to open a pull request or create an issue.
 
 # Deployment
-The application is deployed using Streamlit. You can access it here = https://ml-project-11-medical-insurance-cost-prediction-webapp-aivst8a.streamlit.app/
+The application is deployed using Streamlit. You can access it here = https://ml-project-15-titanic-survival-prediction-webapp-2yjtmkqvtilk8.streamlit.app/
